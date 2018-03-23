@@ -13,7 +13,19 @@ info sobre a verdadeira face do facebook
 
 ###### links
 
+[AntiFacebook](https://www.reddit.com/r/AntiFacebook/ "reddit")
 
+[Chronological compilation of what's wrong with Facebook](https://np.reddit.com/r/AntiFacebook/wiki/timeline)
+
+[collection of videos about the problems of Facebook](https://np.reddit.com/r/AntiFacebook/wiki/videos)
+
+[Facebookistan](http://facebookistan.org/)
+
+[Facebook: Cracking the code](http://thoughtmaybe.com/facebook-cracking-the-code/)
+
+[Check the list of Scientific Papers/Reports about the Facebook Problems](https://np.reddit.com/r/AntiFacebook/wiki/papers)
+
+[And finally follow the the guide how to leave Facebook/WhatsApp/Instagram](https://np.reddit.com/r/AntiFacebook/wiki/guide)
 
 
 
