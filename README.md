@@ -19,17 +19,17 @@ info sobre a verdadeira face do facebook
 
 [collection of videos about the problems of Facebook](https://np.reddit.com/r/AntiFacebook/wiki/videos)
 
-	* documentários
+* documentários
 
-[Facebookistan](http://facebookistan.org/)
+	[Facebookistan](http://facebookistan.org/)
 
-[Facebook: Cracking the code](http://thoughtmaybe.com/facebook-cracking-the-code/)
+	[Facebook: Cracking the code](http://thoughtmaybe.com/facebook-cracking-the-code/)
 
-	* estudos
+* estudos
 
-[Check the list of Scientific Papers/Reports about the Facebook Problems](https://np.reddit.com/r/AntiFacebook/wiki/papers)
+	[Check the list of Scientific Papers/Reports about the Facebook Problems](https://np.reddit.com/r/AntiFacebook/wiki/papers)
 
-[And finally follow the the guide how to leave Facebook/WhatsApp/Instagram](https://np.reddit.com/r/AntiFacebook/wiki/guide)
+	[And finally follow the the guide how to leave Facebook/WhatsApp/Instagram](https://np.reddit.com/r/AntiFacebook/wiki/guide)
 
 
 
