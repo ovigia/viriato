@@ -33,20 +33,8 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 7. [selfhosted](https://www.reddit.com/r/selfhosted/ "reddit")  
 
 
-## **~~facebook~~**
-[página dedicada](antifacebook.md) a tudo o que diz respeito aos serviços da empresa ~~facebook~~
-
-## **~~google~~**
-[página dedicada](antigoogle.md) a tudo o que diz respeito aos serviços da ~~alphabet/google~~
-
-
-
-
-
-
-
-
-
+## OpViriato's wiki!
+para mais info aceder à [wiki](https://github.com/ovigia/viriato/wiki)
 
 
 
