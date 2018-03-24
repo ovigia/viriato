@@ -33,13 +33,13 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 [AntiGoogle](https://www.reddit.com/r/antigoogle/ "reddit")
 [AntiSocialMedia](https://www.reddit.com/r/antisocialmedia/ "reddit")
 
-**compilação cronológica de tudo o que está errado com o ~~Facebook~~**
-	- [Chronological compilation of what's wrong with Facebook](https://np.reddit.com/r/AntiFacebook/wiki/timeline "global")
-	- [censura](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Censorship%27&restrict_sr=on&sort=new&t=all)
-	- [modelo de negócio](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Business+Model%27&restrict_sr=on&sort=new&t=all)
-	- [vigilância](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Surveillance%27&restrict_sr=on&sort=new&t=all)
-	- [privacidade](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Privacy%27&restrict_sr=on&sort=new&t=all)
-	- [net neutrality](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Net+Neutrality%27&restrict_sr=on&sort=new&t=all)
+[**compilação cronológica de tudo o que está errado com o ~~Facebook~~**](https://np.reddit.com/r/AntiFacebook/wiki/timeline "global")
+
+* [censura](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Censorship%27&restrict_sr=on&sort=new&t=all)
+* [modelo de negócio](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Business+Model%27&restrict_sr=on&sort=new&t=all)
+* [vigilância](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Surveillance%27&restrict_sr=on&sort=new&t=all)
+* [privacidade](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Privacy%27&restrict_sr=on&sort=new&t=all)
+* [net neutrality](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Net+Neutrality%27&restrict_sr=on&sort=new&t=all)
 
 **[collection of videos about the problems of ~~Facebook~~](https://np.reddit.com/r/AntiFacebook/wiki/videos)**
 
