@@ -5,7 +5,7 @@ operação apagar facebook, google
 - [Freedombox](https://freedombox.org/ "FreedomBox is designed to be your own inexpensive server at home.")
 - [vps](https://lowendbox.com)
 - serviços online de software livre
-	* [netxcloud](https://nextcloud.com/collaboraonline/ "nextcloud e collabora")
+	* [nextcloud](https://nextcloud.com/collaboraonline/ "nextcloud e collabora")
 	*
 
 ## facebook is evil
