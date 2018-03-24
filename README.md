@@ -1,10 +1,9 @@
 # viriato
-powered by [Markdown](https://www.markdownguide.org/) ![logo](/images/logo)
+powered by [Markdown](https://www.markdownguide.org/) [[/imagens/32x20-solid.png|logo]]
 
 **operação apagar facebook (whatsup, instagram e serviços conexos), google, pinterest** e substituir tudo por serviços e software livre (daqui para a frente designado por FLOSS «Free and Libre Open Source Software»)
 - [GNU](https://www.gnu.org/)
 - [FSF](https://www.fsf.org/)
-
 
 
 ## hipóteses a implementar
