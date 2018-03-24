@@ -25,7 +25,7 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 
 
 ## **~~facebook~~** is evil
-**info sobre a verdadeira face do facebook**  
+**info sobre a verdadeira face do ~~facebook~~**  
 
 #### sites  
 
@@ -33,7 +33,7 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 [AntiGoogle](https://www.reddit.com/r/antigoogle/ "reddit")
 [AntiSocialMedia](https://www.reddit.com/r/antisocialmedia/ "reddit")
 
-**compilação cronológica de tudo o que está errado com o **~~Facebook~~**
+**compilação cronológica de tudo o que está errado com o ~~Facebook~~**
 	- [Chronological compilation of what's wrong with Facebook](https://np.reddit.com/r/AntiFacebook/wiki/timeline "global")
 	- [censura](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Censorship%27&restrict_sr=on&sort=new&t=all)
 	- [modelo de negócio](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Business+Model%27&restrict_sr=on&sort=new&t=all)
@@ -41,7 +41,7 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 	- [privacidade](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Privacy%27&restrict_sr=on&sort=new&t=all)
 	- [net neutrality](https://np.reddit.com/r/AntiFacebook/search?q=flair%3A%27Net+Neutrality%27&restrict_sr=on&sort=new&t=all)
 
-**[collection of videos about the problems of Facebook](https://np.reddit.com/r/AntiFacebook/wiki/videos)**
+**[collection of videos about the problems of ~~Facebook~~](https://np.reddit.com/r/AntiFacebook/wiki/videos)**
 
 * **documentários**
 
@@ -53,7 +53,7 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 
 	[Check the list of Scientific Papers/Reports about the Facebook Problems](https://np.reddit.com/r/AntiFacebook/wiki/papers)
 
-* **como apagar todos os serviços relacionados com o ~~facebook~~ **
+* **como apagar todos os serviços relacionados com o ~~facebook~~**
 
 [And finally follow the the guide how to leave Facebook/WhatsApp/Instagram](https://np.reddit.com/r/AntiFacebook/wiki/guide)
 
