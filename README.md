@@ -1,5 +1,5 @@
 # viriato
-**operação apagar facebook, google**
+**operação apagar facebook (whatsup,instagram e serviços conexos), google**
 
 powered by [Markdown](https://www.markdownguide.org/) ![logo](/images/logo)
 
