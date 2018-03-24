@@ -1,5 +1,5 @@
 # **~~facebook~~** is evil
-#![](imagens/stopfb.png)
+![](imagens/stopfb.png)
 
 #### **info sobre a verdadeira face do ~~facebook~~**  
 
@@ -16,9 +16,16 @@
 * **documentários**
 
 	- [Facebookistan](http://facebookistan.org/)
-
 	- [Facebook: Cracking the code](http://thoughtmaybe.com/facebook-cracking-the-code/)
 
+* **vídeos**
+
+	- [Bryan Lunduke - Facebook and Cambridge Analytica: Just the tip of the iceberg](https://www.youtube.com/watch?v=WxIzTUSK2Q4)
+	- [FACEBOOK EXPOSED "YOU'RE BEING PROGRAMMED"](https://www.youtube.com/watch?v=RimJVNSUR-s)
+	- [Do You Have a Facebook?](https://www.youtube.com/watch?v=JotAOgXFxSs)
+	
+	
+	
 * **estudos**
 
 	[Check the list of Scientific Papers/Reports about the Facebook Problems](https://np.reddit.com/r/AntiFacebook/wiki/papers)
