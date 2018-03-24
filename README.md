@@ -12,7 +12,7 @@ powered by [Markdown](https://www.markdownguide.org/) ![logo](/images/logo)
 - [vps](https://lowendbox.com)
 - serviços online de software livre
 	* [nextcloud](https://nextcloud.com/collaboraonline/ "nextcloud e collabora")
-	* [GNU MediaGoblin](https://mediagoblin.org/) mais info [wikipedia](https://pt.wikipedia.org	/wiki/MediaGoblin)
+	* [GNU MediaGoblin](https://mediagoblin.org/) mais info [wikipedia](https://pt.wikipedia.org/wiki/MediaGoblin)
 
 ## facebook is evil
 info sobre a verdadeira face do facebook
