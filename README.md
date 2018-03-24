@@ -1,4 +1,4 @@
-# viriato
+# Operação Viriato
 powered by [Markdown](https://www.markdownguide.org/) ![](imagens/32x20-solid.png "logo")
 
 ![](imagens/antigoogle.jpg)
@@ -16,22 +16,24 @@ algumas das razões pertinentes para o abandono/apagar destes serviços, nomeada
 https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-facebook-nascimento-de-uma-fraude-com-ligacoes-pouco-recomendaveis-iv-e-ultima-parte/)
 
 ## hipóteses a implementar
-- [Freedombox](https://freedombox.org/ "FreedomBox is designed to be your own inexpensive server at home.")
+- [Freedombox](https://freedombox.org/ "FreedomBox is designed to be your own inexpensive server at home.") via [raspberry pi3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - [vps](https://lowendbox.com)
 - serviços online de software livre
 	* [nextcloud](https://nextcloud.com/collaboraonline/ "nextcloud e collabora")
 	* [GNU MediaGoblin](https://mediagoblin.org/) mais info [wikipedia](https://pt.wikipedia.org/wiki/MediaGoblin)
 
+#### sites  
 
+1. [AntiFacebook](https://www.reddit.com/r/AntiFacebook/ "reddit")
+2. [AntiGoogle](https://www.reddit.com/r/antigoogle/ "reddit")
+3. [AntiSocialMedia](https://www.reddit.com/r/antisocialmedia/ "reddit")
+4. [Privacy](https://www.reddit.com/r/privacy/ "reddit")
+5. [Europrivacy](https://www.reddit.com/r/europrivacy/ "reddit")
+6. [privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/ "reddit")
+7. [selfhosted](https://www.reddit.com/r/selfhosted/ "reddit")
 
 ## **~~facebook~~** is evil
 **info sobre a verdadeira face do ~~facebook~~**  
-
-#### sites  
-
-[AntiFacebook](https://www.reddit.com/r/AntiFacebook/ "reddit")
-[AntiGoogle](https://www.reddit.com/r/antigoogle/ "reddit")
-[AntiSocialMedia](https://www.reddit.com/r/antisocialmedia/ "reddit")
 
 [**compilação cronológica de tudo o que está errado com o ~~Facebook~~**](https://np.reddit.com/r/AntiFacebook/wiki/timeline "global")
 
