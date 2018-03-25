@@ -1,9 +1,9 @@
 # Operação Viriato
 powered by [Markdown](https://www.markdownguide.org/) ![](imagens/32x20-solid.png "logo")
 
-#![](imagens/antigoogle.jpg)
+![](imagens/antigoogle.jpg)
 
-#![](imagens/stopfb.png)
+![](imagens/stopfb.png)
 
 **não há almoços grátis, quando te dizem que o serviço é de borla o que querem dizer é que TU ÉS O PRODUTO!**
 
@@ -23,6 +23,15 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 - serviços online de software livre
 	* [nextcloud](https://nextcloud.com/collaboraonline/ "nextcloud e collabora")
 	* [GNU MediaGoblin](https://mediagoblin.org/) mais info [wikipedia](https://pt.wikipedia.org/wiki/MediaGoblin)
+	* [rocket chat](https://rocket.chat)
+	* [riot](https://riot.im "powered by matrix")
+	* [retroshare](http://retroshare.net/)
+	* [friendica](https://friendi.ca/)
+	* [mastodon](https://joinmastodon.org/)
+	* [dtube](https://d.tube/)
+	* [bitchute](https://www.bitchute.com)
+	* [hooktube](https://hooktube.com/)
+	* [peertube](https://peertube.mastodon.host)
 
 #### sites  
 
