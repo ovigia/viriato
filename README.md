@@ -7,6 +7,9 @@ powered by [Markdown](https://www.markdownguide.org/) ![](imagens/32x20-solid.pn
 
 **não há almoços grátis, quando te dizem que o serviço é de borla o que querem dizer é que TU ÉS O PRODUTO!**
 
+## OpViriato's wiki!
+para mais info aceder à [wiki](https://github.com/ovigia/viriato/wiki)
+
 **operação apagar** **~~facebook~~** (**~~whatsup~~**, **~~instagram~~** e serviços conexos), **~~google~~**, **~~pinterest~~** e substituir tudo por serviços e software livre (daqui para a frente designado por FLOSS «Free and Libre Open Source Software»)  
 
 - [GNU](https://www.gnu.org/)
@@ -44,8 +47,7 @@ https://ovigia.wordpress.com/2010/03/29/tracebook-trickbook-thiefbook-ou-faceboo
 7. [selfhosted](https://www.reddit.com/r/selfhosted/ "reddit")  
 
 
-## OpViriato's wiki!
-para mais info aceder à [wiki](https://github.com/ovigia/viriato/wiki)
+
 
 
 
