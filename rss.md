@@ -112,6 +112,9 @@ https://www.temposlivres.org/feed.xml "libertarian"
  * https://feeds.feedburner.com/obs-ultimas "world news" "pt"
  * http://abertoatedemadrugada.com/feeds/posts/default "tek
  * http://planetgeek.org/rss "floss" "pt"
+ * https://feeds.feedburner.com/PublicoRSS
+ * https://feeds.feedburner.com/expresso-geral
+ * 
 
 #### security
  * https://www.schneier.com/blog/atom.xml "security"
