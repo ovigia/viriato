@@ -7,20 +7,21 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
 1. [world news](#world-news)
 2. [alt news](#alt-news) \- alternative news
-3. [floss](#floss)
+3. [floss](#floss) - free libre open source software
 4. [economy](#economy)
 5. [blogs](#blogs)
-6. [preppers](#preppers)
+6. [preppers](#preppers) - prepping, bushcraft, edc, survival
 7. [tips debian](#tips-debian)
-8. [out of the box](#out-of-the-box)
-9. [cgwhoax](#cgwhoax)
-10. [cli](#cli)
-11. [tek](#tek)
+8. [out of the box](#out-of-the-box) - religion, flat earth, occult, hellwood, dajjal
+9. [cgwhoax](#cgwhoax) - climate global warming hoax
+10. [cli](#cli) - command line interface / tui
+11. [tek](#tek) - technology, gadgets
 12. [libertarian](#libertarian)
 13. [unix](#unix)
 14. [pt](#pt)
 15. [security](#security)
-16. [crypto](#crypto)
+16. [crypto](#crypto) - blockchain
+
 
 
 
@@ -34,7 +35,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 ### alt news
 
 
-### floss - free libre open source software
+### floss
 
 
 ### economy
@@ -43,22 +44,22 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 ### blogs
 
 
-### preppers - prepping, bushcraft, edc, survival
+### preppers
 
 
 ### tips debian 
 
 
-### out of the box - religion, flat earth, occult, hellwood, dajjal
+### out of the box
 
 
-### cgwhoax - climate global warming hoax
+### cgwhoax
 
 
-### cli - command line interface / tui
+### cli
 
 
-### tek - technology, gadgets
+### tek
 
 
 ### libertarian
@@ -73,8 +74,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 ### security
 
 
-### crypto - blockchain
-
+### crypto
 
 
 
