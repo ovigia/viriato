@@ -1,9 +1,11 @@
-# Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds
+# RSS / Atom
+
+Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds
 [newsboat](https://newsboat.org/)
 
 ### newsboat urls file
 
-# vim: filetype=conf
+vim: filetype=conf
 
 ## TOC 
 usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
