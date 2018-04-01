@@ -6,7 +6,7 @@
 usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
 1. [world news](#world-news)
-2. [alt news](#alt-news)
+2. [alt news](#alt-news) \- alternative news
 3. [floss](#floss)
 4. [economy](#economy)
 5. [blogs](#blogs)
@@ -31,7 +31,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 ### world news
 
 
-### alt news \'- alternative news'
+### alt news
 
 
 ### floss - free libre open source software
