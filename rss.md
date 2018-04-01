@@ -54,6 +54,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * https://www.newsbud.com/feed/ "world news"
   * http://www.boilingfrogspost.com/feed/ "world news"
   * http://www.paulcraigroberts.org/feed/ "blogs"
+  * https://www.craigmurray.org.uk/feed/ "alt news"
 
 #### floss
  * https://lukesmith.xyz/rss.xml "floss"
