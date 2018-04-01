@@ -25,7 +25,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 14. [pt](#pt)
 15. [security](#security)
 16. [crypto](#crypto) - blockchain
-17. [video channels](#video channels) - hooktube, dtube, peertube, bitchute
+17. [video channels](#video-channels) - hooktube, dtube, peertube, bitchute
 
 
 
