@@ -6,7 +6,7 @@ Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds v
 
 vim: filetype=conf
 
-## TOC 
+### TOC 
 usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
 1. [world propaganda](#world-propaganda) - msm
@@ -25,6 +25,15 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 14. [pt](#pt)
 15. [security](#security)
 16. [crypto](#crypto) - blockchain
+17. [video channels](#video channels) - hooktube, dtube, peertube, bitchute
+
+
+
+
+
+
+
+#### world propaganda
 
 
 
@@ -33,17 +42,8 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
 
 
-### world propaganda
 
-
-
-
-
-
-
-
-
-### alt news
+#### alt news
   * http://www.corbettreport.com/feed/ "world news"
   * http://ronpaulinstitute.org/rss/ "world news" "alt news"
   * https://libertyblitzkrieg.com/feed/ "world news"
@@ -55,7 +55,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * http://www.boilingfrogspost.com/feed/ "world news"
   * http://www.paulcraigroberts.org/feed/ "blogs"
 
-### floss
+#### floss
  * https://lukesmith.xyz/rss.xml "floss"
  * https://anditosan.wordpress.com/feed/ "floss"
  * http://www.brendangregg.com/blog/rss.xml "floss" "solaris"
@@ -66,25 +66,25 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
  * https://www.techdirt.com/techdirt_rss.xml "floss"
  * https://blog.martin-graesslin.com/blog/feed/ "floss"
 
-### economy
+#### economy
  * http://feeds.feedburner.com/zerohedge/feed?format=xml "economy"
  * http://feeds2.feedburner.com/MishsGlobalEconomicTrendAnalysis "economy"
  * http://theeconomiccollapseblog.com/feed "economy"
 
-### blogs
+#### blogs
  * http://crofsblogs.typepad.com/h5n1/atom.xml "blogs"
 
-### preppers
+#### preppers
  * http://everyday-carry.com/rss "preppers"
 
-### tips debian 
+#### tips debian 
  * http://www.debian-administration.org/atom.xml "tips debian"
  * https://www.debian.org/News/weekly/dwn.en.rdf "tips debian"
  * https://bits.debian.org/feeds/feed.rss "tips debian"
  * https://micronews.debian.org/feeds/feed.rss "floss" "debian"
  * https://www.debuntu.org/feed.xml "tips debian"
 
-### out of the box
+#### out of the box
  * https://theunhivedmind.com/UHM/feed/ "conspiracy fact" "underground"
  * http://www.phantomsandmonsters.com/feeds/posts/default?alt=rss "out of the box"
  * http://www.theblackvault.com/casefiles/feed/ "out of the box"
@@ -92,50 +92,38 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
  * http://robschannel.com/feed "out of the box"
  * http://drmsh.com/feed/ "out of the box"
 
-### cgwhoax
+#### cgwhoax
  * https://wattsupwiththat.com/feed/ "cgwhoax"
 
-### cli
+#### cli
  * https://github.com/agarrharr/awesome-cli-apps/commits/master.atom "cli"
 
-### tek
+#### tek
  * http://communities-dominate.blogs.com/brands/rss.xml "mobile"
 
-### libertarian
+#### libertarian
 https://www.temposlivres.org/feed.xml "libertarian"
 
-### unix
+#### unix
 
 
-### pt
+#### pt
  * https://feeds.feedburner.com/obs-ultimas "world news" "pt"
  * http://abertoatedemadrugada.com/feeds/posts/default "tek
  * http://planetgeek.org/rss "floss" "pt"
 
-### security
+#### security
  * https://www.schneier.com/blog/atom.xml "security"
  * https://www.privateinternetaccess.com/blog/feed/ "privacy"
 
-### crypto
+#### crypto
  * https://www.lightbluetouchpaper.org/feed/ "crypto"
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### video channels
 
 
 
