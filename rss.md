@@ -2,7 +2,9 @@
 
 # vim: filetype=conf
 
-## TOC
+## TOC 
+usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
+
 1. [world news](#world-news)
 2. [alt news](#alt-news)
 3. [floss](#floss)
@@ -17,7 +19,8 @@
 12. [libertarian](#libertarian)
 13. [unix](#unix)
 14. [pt](#pt)
-15. 
+15. [security](#security)
+16. [crypto](#crypto)
 
 
 
@@ -26,6 +29,53 @@
 
 
 ### world news
+
+
+### alt news - alternative news
+
+
+### floss - free libre open source software
+
+
+### economy
+
+
+### blogs
+
+
+### preppers - prepping, bushcraft, edc, survival
+
+
+### tips debian 
+
+
+### out of the box - religion, flat earth, occult, hellwood, dajjal
+
+
+### cgwhoax - climate global warming hoax
+
+
+### cli - command line interface / tui
+
+
+### tek - technology, gadgets
+
+
+### libertarian
+
+
+### unix
+
+
+### pt
+
+
+### security
+
+
+### crypto - blockchain
+
+
 
 
 http://www.boilingfrogspost.com/feed/ "world news"
