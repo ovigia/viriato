@@ -5,7 +5,7 @@
 ## TOC 
 usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
-1. [world propaganda](#world-news) - msm
+1. [world propaganda](#world-propaganda) - msm
 2. [alt news](#alt-news) - alternative news
 3. [floss](#floss) - free libre open source software
 4. [economy](#economy)
@@ -49,15 +49,18 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * http://tarpley.net/feed/ "world news"
   * https://www.newsbud.com/feed/ "world news"
   * http://www.boilingfrogspost.com/feed/ "world news"
+  * http://www.paulcraigroberts.org/feed/ "blogs"
 
 ### floss
 
 
 ### economy
-
+ * http://feeds.feedburner.com/zerohedge/feed?format=xml "economy"
+ * http://feeds2.feedburner.com/MishsGlobalEconomicTrendAnalysis "economy"
+ * http://theeconomiccollapseblog.com/feed "economy"
 
 ### blogs
-
+ * http://crofsblogs.typepad.com/h5n1/atom.xml "blogs"
 
 ### preppers
 
@@ -66,7 +69,10 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 
 
 ### out of the box
-
+ * https://theunhivedmind.com/UHM/feed/ "conspiracy fact" "underground"
+ * http://www.phantomsandmonsters.com/feeds/posts/default?alt=rss "out of the box"
+ * http://www.theblackvault.com/casefiles/feed/ "out of the box"
+ * http://doubtfulnews.com/feed/ "out of the box"
 
 ### cgwhoax
 
@@ -94,13 +100,12 @@ https://feeds.feedburner.com/obs-ultimas "world news" "pt"
 
 
 
-http://feeds.feedburner.com/zerohedge/feed?format=xml "economy"
 
-http://www.paulcraigroberts.org/feed/ "blogs"
-http://feeds2.feedburner.com/MishsGlobalEconomicTrendAnalysis "economy"
+
+
 http://everyday-carry.com/rss "preppers"
-http://crofsblogs.typepad.com/h5n1/atom.xml "blogs"
-http://theeconomiccollapseblog.com/feed "economy"
+
+
 http://www.debian-administration.org/atom.xml "tips debian"
 http://undeadly.org/cgi?action=rss "floss"
 https://www.debian.org/News/weekly/dwn.en.rdf "tips debian"
@@ -108,9 +113,8 @@ https://bits.debian.org/feeds/feed.rss "tips debian"
 http://robschannel.com/feed "out of the box"
 https://wattsupwiththat.com/feed/ "cgwhoax"
 http://drmsh.com/feed/ "out of the box"
-http://www.phantomsandmonsters.com/feeds/posts/default?alt=rss "out of the box"
-http://www.theblackvault.com/casefiles/feed/ "out of the box"
-http://doubtfulnews.com/feed/ "out of the box"
+
+
 http://feedproxy.google.com/linuxtoday/linux "floss"
 https://www.debuntu.org/feed.xml "tips debian"
 https://github.com/agarrharr/awesome-cli-apps/commits/master.atom "cli"
@@ -131,6 +135,6 @@ https://micronews.debian.org/feeds/feed.rss "floss" "debian"
 https://www.schneier.com/blog/atom.xml "security"
 http://communities-dominate.blogs.com/brands/rss.xml "mobile"
 https://lukesmith.xyz/rss.xml "floss"
-https://theunhivedmind.com/UHM/feed/ "conspiracy fact" "underground"
+
 
 
