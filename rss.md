@@ -1,4 +1,7 @@
-# Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds [newsboat](https://newsboat.org/); urls file
+# Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds
+[newsboat](https://newsboat.org/)
+
+### newsboat urls file
 
 # vim: filetype=conf
 
