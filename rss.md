@@ -1,7 +1,6 @@
 # RSS / Atom
 
-Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds
-[newsboat](https://newsboat.org/)
+Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds via [newsboat](https://newsboat.org/)
 
 ### newsboat urls file
 
