@@ -31,7 +31,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
 ### world news
 
 
-### alt news - alternative news
+### alt news \- alternative news\
 
 
 ### floss - free libre open source software
