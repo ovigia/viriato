@@ -12,8 +12,12 @@
 7. [tips debian](#tips-debian)
 8. [out of the box](#out-of-the-box)
 9. [cgwhoax](#cgwhoax)
-10.
-
+10. [cli](#cli)
+11. [tek](#tek)
+12. [libertarian](#libertarian)
+13. [unix](#unix)
+14. [pt](#pt)
+15. 
 
 
 
