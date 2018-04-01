@@ -52,7 +52,15 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * http://www.paulcraigroberts.org/feed/ "blogs"
 
 ### floss
-
+ * https://lukesmith.xyz/rss.xml "floss"
+ * https://anditosan.wordpress.com/feed/ "floss"
+ * http://www.brendangregg.com/blog/rss.xml "floss" "solaris"
+ * https://blog.jessfraz.com/index.xml "floss "lxc"
+ * http://undeadly.org/cgi?action=rss "floss"
+ * http://feedproxy.google.com/linuxtoday/linux "floss"
+ * http://moodysmdd.blogspot.com/feeds/posts/default "floss"
+ * https://www.techdirt.com/techdirt_rss.xml "floss"
+ * https://blog.martin-graesslin.com/blog/feed/ "floss"
 
 ### economy
  * http://feeds.feedburner.com/zerohedge/feed?format=xml "economy"
@@ -63,25 +71,31 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
  * http://crofsblogs.typepad.com/h5n1/atom.xml "blogs"
 
 ### preppers
-
+ * http://everyday-carry.com/rss "preppers"
 
 ### tips debian 
-
+ * http://www.debian-administration.org/atom.xml "tips debian"
+ * https://www.debian.org/News/weekly/dwn.en.rdf "tips debian"
+ * https://bits.debian.org/feeds/feed.rss "tips debian"
+ * https://micronews.debian.org/feeds/feed.rss "floss" "debian"
+ * https://www.debuntu.org/feed.xml "tips debian"
 
 ### out of the box
  * https://theunhivedmind.com/UHM/feed/ "conspiracy fact" "underground"
  * http://www.phantomsandmonsters.com/feeds/posts/default?alt=rss "out of the box"
  * http://www.theblackvault.com/casefiles/feed/ "out of the box"
  * http://doubtfulnews.com/feed/ "out of the box"
+ * http://robschannel.com/feed "out of the box"
+ * http://drmsh.com/feed/ "out of the box"
 
 ### cgwhoax
-
+ * https://wattsupwiththat.com/feed/ "cgwhoax"
 
 ### cli
-
+ * https://github.com/agarrharr/awesome-cli-apps/commits/master.atom "cli"
 
 ### tek
-
+ * http://communities-dominate.blogs.com/brands/rss.xml "mobile"
 
 ### libertarian
 https://www.temposlivres.org/feed.xml "libertarian"
@@ -90,12 +104,16 @@ https://www.temposlivres.org/feed.xml "libertarian"
 
 
 ### pt
-https://feeds.feedburner.com/obs-ultimas "world news" "pt"
+ * https://feeds.feedburner.com/obs-ultimas "world news" "pt"
+ * http://abertoatedemadrugada.com/feeds/posts/default "tek
+ * http://planetgeek.org/rss "floss" "pt"
 
 ### security
-
+ * https://www.schneier.com/blog/atom.xml "security"
+ * https://www.privateinternetaccess.com/blog/feed/ "privacy"
 
 ### crypto
+ * https://www.lightbluetouchpaper.org/feed/ "crypto"
 
 
 
@@ -103,38 +121,27 @@ https://feeds.feedburner.com/obs-ultimas "world news" "pt"
 
 
 
-http://everyday-carry.com/rss "preppers"
 
 
-http://www.debian-administration.org/atom.xml "tips debian"
-http://undeadly.org/cgi?action=rss "floss"
-https://www.debian.org/News/weekly/dwn.en.rdf "tips debian"
-https://bits.debian.org/feeds/feed.rss "tips debian"
-http://robschannel.com/feed "out of the box"
-https://wattsupwiththat.com/feed/ "cgwhoax"
-http://drmsh.com/feed/ "out of the box"
 
 
-http://feedproxy.google.com/linuxtoday/linux "floss"
-https://www.debuntu.org/feed.xml "tips debian"
-https://github.com/agarrharr/awesome-cli-apps/commits/master.atom "cli"
-http://moodysmdd.blogspot.com/feeds/posts/default "floss"
-https://www.techdirt.com/techdirt_rss.xml "floss"
-https://blog.martin-graesslin.com/blog/feed/ #floss#
-
-http://abertoatedemadrugada.com/feeds/posts/default "tek"
-https://www.privateinternetaccess.com/blog/feed/
 
 
-https://anditosan.wordpress.com/feed/ "floss"
-http://www.brendangregg.com/blog/rss.xml "floss" "solaris"
-https://blog.jessfraz.com/index.xml "floss "lxc"
-http://planetgeek.org/rss "floss" #pt#
-https://www.lightbluetouchpaper.org/feed/ "crypto"
-https://micronews.debian.org/feeds/feed.rss "floss" "debian"
-https://www.schneier.com/blog/atom.xml "security"
-http://communities-dominate.blogs.com/brands/rss.xml "mobile"
-https://lukesmith.xyz/rss.xml "floss"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
