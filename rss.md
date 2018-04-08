@@ -66,6 +66,9 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
  * http://moodysmdd.blogspot.com/feeds/posts/default "floss"
  * https://www.techdirt.com/techdirt_rss.xml "floss"
  * https://blog.martin-graesslin.com/blog/feed/ "floss"
+ * https://www.eff.org/rss/updates.xml "floss"
+ * https://act.eff.org/action.atom "floss"
+ * http://lessig.tumblr.com/rss "floss"
 
 #### economy
  * http://feeds.feedburner.com/zerohedge/feed?format=xml "economy"
@@ -128,7 +131,9 @@ https://www.temposlivres.org/feed.xml "libertarian"
 
 
 ### video channels
-
+ * https://hooktube.com/channel/UCf93fPKwotph47H3_KDcRyg "floss" #kris ochipinti
+ * https://hooktube.com/channel/UC2eYFnH61tmytImy1mTYvhA "floss" #luke smith
+ * https://hooktube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q "floss" "privacy" #the hated one
 
 
 
