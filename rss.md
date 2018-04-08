@@ -2,7 +2,7 @@
 
 Quando tudo falha na media social nada como voltar ao básico RSS e ATOM feeds via [newsboat](https://newsboat.org/)
 
-[newsboat urls file](.newsbeuter/urls)
+[newsboat urls file](/rss.md)
 
 vim: filetype=conf
 
