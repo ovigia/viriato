@@ -55,6 +55,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * http://www.boilingfrogspost.com/feed/ "world news"
   * http://www.paulcraigroberts.org/feed/ "blogs"
   * https://www.craigmurray.org.uk/feed/ "alt news"
+  * http://www.thedailybell.com/feed/ "alt news"
 
 #### floss
  * https://lukesmith.xyz/rss.xml "floss"
@@ -95,6 +96,9 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
  * http://doubtfulnews.com/feed/ "out of the box"
  * http://robschannel.com/feed "out of the box"
  * http://drmsh.com/feed/ "out of the box"
+ * https://vigilantcitizen.com/feed/ "out of the box"
+ * https://qanonposts.com/ "out of the box"
+ 
 
 #### cgwhoax
  * https://wattsupwiththat.com/feed/ "cgwhoax"
