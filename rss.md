@@ -56,6 +56,7 @@ usado [tags](https://wiki.archlinux.org/index.php/Newsboat#Tagging_feeds)
   * http://www.paulcraigroberts.org/feed/ "blogs"
   * https://www.craigmurray.org.uk/feed/ "alt news"
   * http://www.thedailybell.com/feed/ "alt news"
+  * https://www.activistpost.com/feed "alt news"
 
 #### floss
  * https://lukesmith.xyz/rss.xml "floss"
