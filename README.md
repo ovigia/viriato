@@ -7,6 +7,8 @@ powered by [Markdown](https://www.markdownguide.org/) ![](imagens/32x20-solid.pn
 
 **não há almoços grátis, quando te dizem que o serviço é de borla o que querem dizer é que TU ÉS O PRODUTO!**
 
+[![They Admitted Social Media Is Programming Us](http://img.youtube.com/vi/-J2jgLX6XKc/0.jpg)](https://www.youtube.com/watch?v=-J2jgLX6XKc "VIDEO - They Admitted Social Media Is Programming Us")
+
 ## OpViriato's wiki!
 para mais info aceder à [wiki](https://github.com/ovigia/viriato/wiki)
 
